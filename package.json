@@ -1,0 +1,22 @@
+{
+  "name": "f7rnoor-cli-gusessing-number",
+  "version": "1.0.1",
+  "description": "HELLO EVERYONE! This is me FAQEHANOOR. I am the student of IT program. This is my cli-number-gusessing",
+  "main": "index.js",
+  "type":"module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
